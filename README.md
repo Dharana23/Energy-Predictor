@@ -9,5 +9,5 @@ Model is created by using Facebook's Prophet algorithm.
 https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset
 
 # Deployment
-Application is finally deployed on Heroku cloud</b>
+Application is finally deployed on Heroku cloud<br/>
 https://predictor-epoch.herokuapp.com/
