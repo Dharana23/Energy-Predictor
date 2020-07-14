@@ -6,5 +6,5 @@ Flask is used as the backend web framework.
 Model is created by using Facebook's Prophet algorithm.
 
 # Deployment
-Application is finally deployed on Heroku cloud<br/>
+Application is deployed on Heroku cloud<br/>
 https://wind-prophecy-epoch.herokuapp.com/
