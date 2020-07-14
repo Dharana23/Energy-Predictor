@@ -7,4 +7,4 @@ Model is created by using Facebook's Prophet algorithm.
 
 # Deployment
 Application is deployed on Heroku cloud<br/>
-https://wind-prophecy-epoch.herokuapp.com/
+https://epoch-wind-prophecy.herokuapp.com/
